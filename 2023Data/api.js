@@ -2,7 +2,7 @@
   "Auth": "https://raw.githubusercontent.com/Funnidevv/OldRecV2023/refs/heads/main/2023Data/api.js",
   "API": "https://raw.githubusercontent.com/Funnidevv/OldRecV2023/refs/heads/main/2023Data/api.js",
   "WWW": "https://raw.githubusercontent.com/Funnidevv/OldRecV2023/refs/heads/main/2023Data/api.js",
-  "Notifications": "http://epic-notify.gabethefirst.com:2082",
+  "Notifications": "https://raw.githubusercontent.com/Funnidevv/OldRecV2023/refs/heads/main/2023Data/notify.js:2082",
   "Images": "https://raw.githubusercontent.com/Funnidevv/OldRecV2023/refs/heads/main/2023Data/api.js/img",
   "CDN": "https://raw.githubusercontent.com/Funnidevv/OldRecV2023/refs/heads/main/2023Data/api.js",
   "Commerce": "https://raw.githubusercontent.com/Funnidevv/OldRecV2023/refs/heads/main/2023Data/api.js",
